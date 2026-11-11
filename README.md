@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cairo&weight=700&size=30&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Abo+Shaheen+%7C+%D8%A3%D8%A8%D9%88+%D8%B4%D8%A7%D9%87%D9%8A%D9%86;%D9%85%D8%B7%D9%88%D8%B1+%D9%88%D8%A7%D8%AC%D9%87%D8%A7%D8%AA+%D8%A3%D9%85%D8%A7%D9%85%D9%8A%D8%A9+%F0%9F%92%BB;%D8%A8%D8%AD%D9%88%D9%91%D9%84+%D8%A7%D9%84%D8%A3%D9%81%D9%83%D8%A7%D8%B1+%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9+%D9%88%D9%8A%D8%A8+%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81%D9%8A%D8%A9" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cairo&weight=700&size=30&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Abo+Shaheen;%D9%85%D8%B7%D9%88%D8%B1+%D9%88%D8%A7%D8%AC%D9%87%D8%A7%D8%AA+%D8%A3%D9%85%D8%A7%D9%85%D9%8A%D8%A9+%F0%9F%92%BB;%D8%A8%D8%AD%D9%88%D9%91%D9%84+%D8%A7%D9%84%D8%A3%D9%81%D9%83%D8%A7%D8%B1+%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9+%D9%88%D9%8A%D8%A8+%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81%D9%8A%D8%A9" alt="Typing SVG" />
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 ## 👋 نبذة عني
 
-أنا **أبو شاهين**، مطور واجهات أمامية (Front-End Developer) متخصص في تحويل الأفكار إلى مواقع ويب احترافية، سريعة، ومتجاوبة مع كل الشاشات.
+أنا مطور واجهات أمامية (Front-End Developer) متخصص في تحويل الأفكار إلى مواقع ويب احترافية، سريعة، ومتجاوبة مع كل الشاشات.
 
 - 🌐 أبني **صفحات هبوط** و**مواقع Portfolio** لأصحاب الأعمال والمستقلين
 - ✏️ أعدّل المواقع الجاهزة وأطوّرها
